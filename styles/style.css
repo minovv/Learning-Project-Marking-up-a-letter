@@ -32,4 +32,14 @@ address {
     line-height: 1.5;
 }
 
-.title2main {}
+.letter-head {
+    text-align: right;
+}
+
+.bold_element {
+    font-weight: bold;
+}
+
+.indent_text {
+    margin-left: 40px;
+}
