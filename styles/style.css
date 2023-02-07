@@ -9,6 +9,7 @@ body {
 
 h1 {
     font-size: 1.5em;
+    font-style: inherit;
 }
 
 h2 {
@@ -29,4 +30,16 @@ dd,
 dt,
 address {
     line-height: 1.5;
+}
+
+.letter-head {
+    text-align: right;
+}
+
+.bold_element {
+    font-weight: bold;
+}
+
+.indent_text {
+    margin-left: 40px;
 }
