@@ -33,7 +33,8 @@ address {
 }
 
 .letter-head {
-    text-align: right;
+    text-align: left;
+    margin-right: 560px;
 }
 
 .bold_element {
